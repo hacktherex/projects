@@ -13,7 +13,7 @@
 
 ---
 
-Hack the Rex is a free hackathon for high school students at North Albion Collegiate Institute in Rexdale, Toronto. It was started by two NACI students, Eben Siyabalapitiya and Vanesha Budhu.
+Hack the Rex is a free hackathon for high school students at North Albion Collegiate Institute in Rexdale, Toronto. It was started by two NACI students, Eben Siyabalapitiya and Vanesha Budhu. Going to Hack the North for the first time showed them what a hackathon can feel like, and they wanted to bring that back to Rexdale for students who never got the chance.
 
 On December 3rd, 2026, the school library turns into a build space for one afternoon. Teams of 2 or 3 have a few hours to make something: an app, a game, a robot, or an idea that only half works. You don't need any experience to join. Judging is about creativity and the idea, not just how technical the project is.
 
