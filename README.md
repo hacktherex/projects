@@ -7,6 +7,7 @@
 <p align="center">
   Everything our teams built at Hack the Rex 2026.<br>
   <a href="https://www.hacktherex.com">Website</a> ·
+  <a href="https://www.instagram.com/hacktherex/">Instagram</a> ·
   <a href="https://www.mlh.com/events/hack-the-rex">MLH event page</a>
 </p>
 
@@ -54,4 +55,4 @@ Hack the Rex wouldn't happen without the people backing it.
 - **Eben Siyabalapitiya**, co-founder · [LinkedIn](https://www.linkedin.com/in/eben-siyabalapitiya/) · [Portfolio](https://ebensiyabalapitiya.site/)
 - **Vanesha Budhu**, co-founder · [Hack the Rex crew](https://www.hacktherex.com/#crew)
 
-Want to get involved, sponsor next year, or just say hi? Find us at [hacktherex.com](https://www.hacktherex.com).
+Want to get involved, sponsor next year, or just say hi? Find us at [hacktherex.com](https://www.hacktherex.com) or on Instagram at [@hacktherex](https://www.instagram.com/hacktherex/).
