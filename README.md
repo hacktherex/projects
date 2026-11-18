@@ -53,6 +53,6 @@ Hack the Rex wouldn't happen without the people backing it.
 ## Organizers
 
 - **Eben Siyabalapitiya**, co-founder · [LinkedIn](https://www.linkedin.com/in/eben-siyabalapitiya/) · [Portfolio](https://ebensiyabalapitiya.site/)
-- **Vanesha Budhu**, co-founder · [Hack the Rex crew](https://www.hacktherex.com/#crew)
+- **Vanesha Budhu**, co-founder · [LinkedIn](https://www.linkedin.com/in/vanesha-budhu/)
 
 Want to get involved, sponsor next year, or just say hi? Find us at [hacktherex.com](https://www.hacktherex.com) or on Instagram at [@hacktherex](https://www.instagram.com/hacktherex/).
